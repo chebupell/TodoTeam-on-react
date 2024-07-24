@@ -1,0 +1,20 @@
+h2.main-page-link,
+h2.search-team-link {
+    margin: 0;
+    font-family: sans-serif;
+    padding-top: 7px;
+    padding-left: 25px;
+    color: black;
+}
+
+h2.log-in-link {
+    margin: 0;
+    font-family: sans-serif;
+    padding-top: 7px;
+    padding-left: 1425px;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}

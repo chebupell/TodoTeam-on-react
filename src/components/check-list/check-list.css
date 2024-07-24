@@ -1,0 +1,29 @@
+.check-list-wrapper {
+    width: 300px;
+    height: 1080px;
+    background-color: white;
+    border-right: 1px solid black;
+    display: flex;
+}
+
+.check-list-text {
+    font-family: sans-serif;
+    color: black;
+    font-weight: 100px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.svg-check-list {
+    margin-left: 50px;
+}
+
+.team-card {
+    height: 800px;
+    width: 400px;
+    background-color: white;
+    margin-left: 100px;
+    margin-top: 60px;
+    border-radius: 10px;
+
+}
